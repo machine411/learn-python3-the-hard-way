@@ -12,3 +12,6 @@ print(f"He's {my_weight} pounds heavy.")
 
 total=my_age+my_height+my_weight
 print(f"if i add {my_age},{my_height},and {my_weight} i get {total}")
+
+fi=round(1.7333)
+print(fi)
